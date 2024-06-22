@@ -8,5 +8,5 @@ Some things about me:
 * I'm also learning [Pico-8](https://github.com/gordonglas/pico-8).
 * I made a [Breakout clone](https://github.com/gordonglas/gba-breakout) for Gameboy Advance a while back. It's not 100% complete, but is playable.
 * You can reach me on <a rel="me" href="https://mastodon.gamedev.place/@kefka">Mastodon</a> or [X (Twitter)](https://twitter.com/alphatrak).
-* I occasionally post random things to my [blog](https://gglas.ninja). [Code for my blog](https://github.com/gordonglas/gglas-ninja) is also public.
+* I occasionally post random things to my [blog](https://gglas.ninja). [Code for my blog](https://github.com/gordonglas/gglas-ninja-astro) is also public.
 * You can find more [about me](https://gglas.ninja/about) on my blog.
