@@ -5,8 +5,7 @@ I've been coding since the mid 90's and I got interested in computers from my in
 Some things about me:  
 
 * I'm learning [MonoGame](https://docs.monogame.net/articles/tutorials/building_2d_games/index.html) to make a game with my son while I teach him game programming.
-* I'm also very slowly working on my own [C++ game engine](https://github.com/gordonglas/mana-engine). More info is in my [indie studio site news](https://overworldsoft.com/news) posts.
-* I'm also learning [Pico-8](https://github.com/gordonglas/pico-8).
+* I have done some work on my own [C++ game engine](https://github.com/gordonglas/mana-engine). More info is in my [indie studio site news](https://overworldsoft.com/news) posts.
 * I made a [Breakout clone](https://github.com/gordonglas/gba-breakout) for Gameboy Advance a while back. It's not 100% complete, but is playable.
 * You can reach me on [Bluesky](https://bsky.app/profile/kefka-ff.bsky.social), <a rel="me" href="https://mastodon.gamedev.place/@kefka">Mastodon</a> or [X (Twitter)](https://twitter.com/alphatrak).
 * I occasionally post random things to my [blog](https://gglas.ninja). [Code for my blog](https://github.com/gordonglas/gglas-ninja-astro) is also public.
